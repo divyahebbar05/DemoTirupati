@@ -1,0 +1,5 @@
+templates\resources\ExtentReporterNG.class
+templates\pageobjects\templatePage.class
+templates\pageobjects\loginPage.class
+templates\AbstractComponents\abstractComponents.class
+templates\pageobjects\campaignPage.class

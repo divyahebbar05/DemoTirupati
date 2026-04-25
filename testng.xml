@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" thread-count="1">
+  <test name="Test" thread-count="1">
+    <classes>
+     
+      <class name="campaigntest.singletemplateTestNG"/>
+     
+      
+    </classes>
+  </test>
+</suite>
