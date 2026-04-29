@@ -154,6 +154,8 @@ public class campaigncases {
 		 	
 		 	
 		 Thread.sleep(5000);
+		 	
+			 Thread.sleep(7000);
 		 }	
 		  	} 
 		 
