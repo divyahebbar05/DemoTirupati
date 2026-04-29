@@ -41,6 +41,8 @@ import campaigntest.TestComponents.BaseTest;
 
 		        template.launchCampaign(); 
 		        Assert.fail("Force Failure");
+		        
+		        //made changes for test
 		    }
 		}
 

@@ -39,6 +39,8 @@ import campaigntest.TestComponents.BaseTest2;
 		        template.sendTestMessage("9980960647");
 
 		        template.launchCampaign(); 
+		        
+		        //made changes for test
 		    }
 		}
 
