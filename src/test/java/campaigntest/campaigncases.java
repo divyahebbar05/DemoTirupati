@@ -152,6 +152,8 @@ public class campaigncases {
 		 	wait.until(ExpectedConditions.visibilityOfElementLocated(immediate)).click();
 		 	wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Launch']"))).click();
 		 	
-		  	}	
+		 	
+		 Thread.sleep(5000);
+		 }	
 		  	} 
 		 
